@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "data-pixels": "^1.0.3",
+    "express": "^4.17.3"
+  },
+  "name": "procedural-pixelart",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreiec/procedural-pixelart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreiec/procedural-pixelart/issues"
+  },
+  "homepage": "https://github.com/andreiec/procedural-pixelart#readme",
+  "description": ""
+}
